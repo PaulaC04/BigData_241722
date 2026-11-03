@@ -1,0 +1,257 @@
+CODIGO_TIPOPROBLEMA,DESC_TIPOPROBLEMA,CODIGO_GRUPO
+30,Necropsias perros y gatos,28
+31,Necropsias otros vias transito,28
+32,Necropsias equinos,28
+90,Reubicacion por estacionamiento o reserva de cordon,52
+92,Reubicacion por boca de tormenta,52
+96,Reubicacion por Parada de Omnibus,52
+97,Reubicacion molestias transito,52
+99,Traslado de contenedor,52
+100,Reubicacion futuro rebaje cordon,52
+101,Rotacion Contenedor,52
+102,Supresion,52
+105,Bajar/Subir contenedor por actividades en la zona,52
+136,Contenedor roto(O),52
+137,Falta de contenedores en la zona,52
+138,Aumento Capacidad Contenedor,52
+139,No paso Camion Recolector,52
+140,Poca Frecuencia Limpieza Contenedor,52
+141,Residuos fuera cont.por clasificador,52
+169,Reubicacion por Obras,52
+221,No barrieron en torno a Contenedor,52
+222,No pasó Camión Lavador,52
+223,Residuos fuera del contenedor por uso indebido/clasificador,52
+224,Residuos fuera del contenedor por capacidad insuficiente,52
+225,Uso no autorizado por comercios y similares,52
+226,Residuos fuera cont.rotura o incendio,52
+227,Otros Problemas Contenedores,52
+228,Contenedor fuera de lugar por imprevistos,52
+229,Escombros/Podas dentro de contenedor,52
+241,Podas,31
+261,Animales muertos en vias de transito,28
+262,Animales muertos en playas,28
+281,Residuos en la arena,30
+282,Residuos en la rambla,30
+283,Falta de levante de bolsas de residuos,30
+284,Papeleras desbordadas,30
+301,Muebles y electrodomésticos,31
+302,Levante basurales,31
+303,Retiro de escombros,31
+304,Levante de bolsas de barrido,31
+305,Limpieza ferias,31
+306,No cumplimiento de servicios especiales,141
+321,Volqueta desbordada,121
+322,Basura alrededor de volqueta,121
+323,Falta reponer volqueta retirada,121
+341,No paso el camión de recolección manual,141
+361,Recolección de bolsas de leche,181
+362,Recolección de pilas,181
+381,Basura Inedita,201
+401,Bache,221
+402,Bache con agua,221
+403,Desnivel,221
+404,Desnivel con agua,221
+405,Grieta,221
+421,Solicitud de barométrica Cat A (viejo),241
+441,Boca de Tormenta obstruida,261
+461,Levante de limpieza de boca de tormenta,261
+481,Columnas/Cables,281
+501,Alcantarilla Obstruida,302
+502,Alcantarilla Rota,302
+503,Boca de Tormenta Dañada,261
+505,Boca de Tormenta sin Tapa,261
+506,Cañada Obstruida,303
+507,Colector Interno Obstruido,301
+508,Colector Obstruido,301
+509,Colector Roto,301
+510,Colector Sucio,301
+511,Conexion Nueva,301
+512,Conexion Obstruida,301
+513,Acera y/o Pavimento Hundido,301
+514,Registro Roto,302
+515,Registro sin Tapa,302
+516,Registro Sucio,302
+517,Colector Interno Roto,301
+518,Registro Nuevo,302
+519,Conexion Rota,301
+561,Varios,341
+581,Falta barrido,361
+621,Extracción/Árbol deteriorado,381
+622,Arboles o ramas caidas / accidental,381
+641,Problemas aereos / poda / enfermedades,381
+642,Problemas raices / veredas / subterraneos,381
+662,Extracción x Entrada Garaje,382
+681,Plantación,401
+703,"Vandalismo, indigentes, hurto de arena.",30
+704,"Vectores (ratas, etc.), presencia de animales vivos.",30
+741,Obra nueva extraccion por entrada de garage,382
+781,Solicitudes Servicios Públicos,381
+801,Servicio contratado (contenedores de plástico),441
+802,No cumplimiento de servicio contratado,441
+803,Residuo fuera del contenedor,52
+804,Problema con volqueta privada,121
+805,Problema con volqueta de la Intendencia,121
+806,Contenedores plásticos (cooperativas y barrios),141
+821,Problema de Alumbrado Publico,461
+841,Equipamiento Urbano deteriorado o roto,486
+846,Solicitud instalación Equipamiento Urbano (Nuevo),486
+848,Problema con fuente,481
+852,Solicitud de limpieza de Graffitis,481
+853,Solicitud de limpieza de monumentos,481
+854,Fallas Sanitarias en Espacios Públicos,481
+856,Fallas eléctricas en Espacios Públicos,481
+881,Solicitud de trabajo internas,484
+901,Conexion sucia,301
+921,"Bus Servicio fuera de hora, faltante, no paró, alteración de recorrido",521
+922,"Bus Estado del vehículo (higiene, carrocería, luces) ",521
+923,"Bus Problemas con el personal (conductor, guarda, inspector)",521
+924,Bus Tarjeta o máquina de a bordo,521
+925,"Iniciativas, sugerencias de transporte.Otros",521
+1041,"Locales STM (funcionamiento, horario, trato)",521
+1042,Solicitud de nueva parada,582
+1043,Reparación/Mantenimiento de refugio,582
+1044,Taxis-Estado del vehiculo,581
+1045,Taxis-Problemas con el personal,581
+1046,Parada de taxi,581
+1081,Reposición de Vereda y Calzada,301
+1161,Reposición de Vereda ,301
+1162,Reposición de Calzada,301
+1201,Reposición de Calzada de Asfalto,301
+1202,Reposición de Calzada de Hormigón,301
+1301,Contenedor lleno,621
+1321,Residuos fuera del contenedor,621
+1322,Falta de barrido en avenidas y bulevares,621
+1323,Falta de barrido en calles internas,621
+1324,Animal muerto en la vía pública,621
+1341,Animal muerto dentro de propiedad privada,621
+1342,Basural de grandes dimensiones,621
+1343,Falta de limpieza en playa,621
+1344,Falta de limpieza en rambla,621
+1345,Falta de limpieza posterior a feria,621
+1346,Falta de levante manual de residuos domiciliarios,621
+1361,Volqueta privada desbordada,621
+1381,Solicitud de retiro de podas,622
+1401,Solicitud de retiro de escombros,622
+1402,"Solicitud de retiro de otros residuos de gran tamaño (muebles, electrodomésticos)",622
+1421,Contenedor roto,623
+1422,"Contenedor obstruye o dificulta la circulación en: rampa, tránsito, vereda o área de construcción",623
+1423,Contenedor fue movido por vecino o vecina,623
+1424,Solicitar traslado de contenedor,623
+1425,Solicitar contenedor adicional en la vía pública,623
+1501,CECOED-Calles y veredas,641
+1502,CECOED-Limpieza,641
+1503,CECOED-Municipios,641
+1504,Aeropuertos,661
+1505,Bomberos,661
+1506,Facultad de Veterinaria,661
+1507,MTOP,661
+1508,Varios,661
+1509,Espacio Ocupado,662
+1521,Varios,641
+1522,CECOED-Alumbrado,641
+1541,CECOED-Arbolado,641
+1561,CECOED-Saneamiento,641
+1581,"Bus Accesibilidad (rampas, espacio, cinturones)",521
+1582,Bus Radio (volumen de emisiones radiales o musicales),521
+1601,Actuaciones,662
+1621,CECOED Apoyo a Instituciones,641
+1622,CECOED Derrame / Barrido ,641
+1661,Intervención control plagas,681
+1681,Residuos en la vía pública,621
+1682,Vehículo quemado,621
+1701,Conexión de Boca de Tormenta Obstruida,261
+1721,Conexión de Boca de Tormenta Rota,261
+1761,Solicitar contenedor para residuos reciclables ,623
+1801,Traslado parada ,582
+1802,Solicitud de refugio,582
+1803,Solicitud/mantenimiento de iluminación,582
+1804,Falta de limpieza,582
+1805,Falta/modificación panel informativo,582
+1806,Reparación/mantenimiento,701
+1807,Falta/mantenimiento de señalización,701
+1808,Falta de limpieza,701
+1821,Denuncia o falta de vigilancia,701
+1822,Irregularidad de locales,701
+1823,Solicitud/mantenimiento baños o iluminación,701
+1841,Afectaciones por carga y descarga de mercadería,721
+1842,Camiones estacionados en zonas-horarios no autorizadas,721
+1843,Circulación irregular de camiones,721
+1844,Sugerencias,721
+1901,Escuela,781
+1902,Jardín de Infantes,781
+1903,Liceo/UTU,781
+1904,Viviendas,782
+1905,Vía Pública,782
+1906,Calles/Veredas,783
+1907,Boca Tormenta,783
+1908,Contenedores,783
+1909,Cuneta/Cañada,783
+1910,Ornato Público,783
+1911,Costas y Playas,784
+1912,Oficina,784
+1913,Policlínica,784
+1914,Cantón/Usina,784
+1915,INAU,785
+1916,Adm. Central y S. Desc.,785
+1917,ONG,785
+1918,MIDES,785
+1919,Policlínica,785
+1921,ASSE Gratuito,786
+1922,Usuario MIDES,786
+1923,Oficio,786
+1924,Positivos,787
+1925,Puntos Críticos,787
+1926,Cementerios,787
+1927,Parques/Plazas,787
+1928,Vivienda,788
+1929,Local Comercial,788
+1930,Edificio,788
+1931,Ministerio/Entes Oficiales,788
+1932,Cementerios,789
+1933,Oficina ext,789
+1934,Cantón/Usina,789
+1981,Animal muerto dentro de propiedad privada - persona física,621
+1982,Animal muerto dentro de propiedad privada - persona jurídica,621
+2021,Falta de tapa,281
+2022,Hundimiento/ Pozo/ Socavamiento,281
+2023,Cordón roto,841
+2024,Elementos sin retirar,841
+2025,Obra sin terminar,841
+2026,Reposiciones defectuosas en calzada,841
+2027,Reposiciones defectuosas en vereda,841
+2028,Señalización faltante o inadecuada,841
+2061,Remises-Problemas con el personal,861
+2121,Ambulancias -Estado del vehículo,881
+2122,Escolares-Problemas con el personal,901
+2123,Escolares- Estado del vehículo,901
+2141,Plataformas electrónicas-Problemas con el personal,921
+2142,Plataformas electrónicas-Estado del vehículo,921
+2181,Palmera afectada o seca por plaga (picudo),381
+2261,Solicitud de barométrica Cat A ,241
+2262,Solicitud de barométrica Cat B,241
+2263,Solicitud de barométrica Cat C,241
+2481,En monumentos,1041
+2482,En placas conmemorativas,1041
+2501,Humo en inmediaciones del sitio,1061
+2502,Olor en inmediaciones del sitio,1061
+2503,Polvo en inmediaciones del sitio,1061
+2504,Residuos en inmediaciones del sitio,1061
+2541,MGAP,661
+2542,OSE,661
+2543,UTE,661
+2544,ANTEL,661
+2661,Circuito limpio,1121
+2662,Mantenimiento de áreas verdes,1121
+2663,Polifuncional (área operativa),1121
+2681,Cuerpo de agua sucio,1141
+2701,Requiere atención y orientación social,1161
+2721,CECOED - Apoyo Social,1181
+2841,Obra nueva- aereos / poda / enfermedades ,1221
+2842, Obra nueva- raices / veredas / subterraneos,1221
+2843,Obra nueva-Plantación ,1221
+2861,Obra nueva- extraccion por entrada de garage,1221
+2881,CECOED-Cuerpos de agua,641
+2921,Corte de Cesped,1241
+2922,Mantenimiento Arbolado,1241
+2961,Espacio público vandalizado,1261
+2962,Fachada privada vandalizada,1261

@@ -1,0 +1,61 @@
+CODIGO_GRUPO,DESC_GRUPO,CODIGO_AREA
+28,Animales muertos,1
+30,Playas y ramblas,1
+31,"Basura, escombros y ferias",1
+52,Contenedores,1
+121,Volquetas,1
+141,Recolección domiciliaria,1
+181,Campañas Ambientales,1
+201,Campaña Basura Inedita,1
+221,Viales,41
+241,Barometrica,61
+261,Bocas de Tormenta,3
+281,Defectos en instalaciones de Servicios Públicos,41
+301,Conexiones y Colectores,3
+302,Alcantarillas y Registros,3
+303,Cursos de Agua,3
+341,Sin Determinar Tipo Problema,3
+361,Barrido,1
+381,Arbolado,101
+382,Extraccion por entrada de garaje,101
+401,Plantacion,101
+441,Recolección en comercios,1
+461,Alumbrado,121
+481,Fuentes e instalaciones,141
+484,Solicitudes Internas,141
+486,Equipamiento Urbano,141
+521,Transporte Colectivo,161
+581,Taxis,161
+582,Paradas,161
+621,Problema de limpieza,1
+622,"Solicitud de retiro de poda, escombros o residuos de gran tamaño",1
+623,Estado de los contenedores,1
+641,Emergencias,221
+661,Externos,221
+662,Ocupación de Espacios Públicos,221
+681,Control de Plagas,241
+701,"Terminales, intercambiadores",161
+721,Transporte de carga,161
+781,Centro Educativo,241
+782,Barrio/Asentamiento,241
+783,Vía Pública,241
+784,Departamental,241
+785,Nacional,241
+786,Viviendas,241
+787,Aedes Aegypti/Dengue,241
+788,Presupuesto,241
+789,Serv. Externos IM (H.H.E.E.),241
+841,Obras de Sevicios Públicos,41
+861,Remises,161
+881,Ambulancias,161
+901,Escolares,161
+921,Plataformas electrónicas,161
+1041,Limpieza de grafittis,141
+1061,"Disposición final de residuos ""Felipe Cardoso""",1
+1121,Operativa polifuncional,321
+1141,Cuerpos de agua,341
+1161,Evento de emergencia,361
+1181,COM,221
+1221,Obra Nueva,101
+1241,Mantenimiento Espacios Verdes,101
+1261,Denuncia Grafitis,321
